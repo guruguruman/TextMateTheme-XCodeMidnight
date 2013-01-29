@@ -1,14 +1,7 @@
-------------------------------------------------------------------
-Description
-------------------------------------------------------------------
-TextMate's theme like XCode-Midnight theme syntax highlighting.
-Not completly same just similar.
+# TextMate Theme \[XCode's Midnight\]
 
-------------------------------------------------------------------
-Usage
-------------------------------------------------------------------
-1. Download this file from here
-2. Double click it.
+TextMate's theme based on XCode-Midnight similar syntax highlighting.
 
-Just them, after double clicking, TextMate automaticaly install
-this theme.
+## Installation 
+
+Download or pull theme file from this repository. After double clicking the file, TextMate automaticaly install it.
